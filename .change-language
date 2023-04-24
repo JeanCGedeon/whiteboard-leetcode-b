@@ -1,3 +1,3 @@
 .gitattributes 
-.javascript linguist = true
+.javascript linguist-detectable = true
 .html -linguist-detectable = false
